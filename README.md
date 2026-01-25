@@ -42,13 +42,13 @@ Always open to learning, collaboration, and building impactful products.
 ### 💻 Primary Stack
 
 #### 🚀 Languages
-[![Languages](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp)](https://skillicons.dev)
 
 #### 🧑‍🎨 Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css,vite)](https://skillicons.dev)
 
 #### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,postman)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=fastapi,django,nodejs,express,postman)](https://skillicons.dev)
 
 #### 📦 Database
 [![Database](https://skillicons.dev/icons?i=mongodb,sqlite)](https://skillicons.dev)
@@ -92,12 +92,12 @@ Always open to learning, collaboration, and building impactful products.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&theme=gruvbox&show_icons=true&count_private=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=gruvbox&layout=compact" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShantanuV2709&theme=gruvbox&show_icons=true&count_private=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuV2709&theme=gruvbox&layout=compact" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=your-username&theme=gruvbox" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ShantanuV2709&theme=gruvbox" />
 </p>
 
 ---
@@ -105,7 +105,7 @@ Always open to learning, collaboration, and building impactful products.
 ### 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantanuV2709&theme=react-dark&hide_border=true" />
 </p>
 
 ---
