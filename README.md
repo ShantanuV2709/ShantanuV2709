@@ -12,21 +12,15 @@ Always open to learning, collaboration, and building impactful products.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=600&lines=Software+Developer;Full+Stack+Developer;FastAPI+%7C+React+%7C+MongoDB;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
 
+### 👨‍💻 About Me
 
-<h3 align="center">👨‍💻 About Me</h3>
+> _Building clean, scalable, and reliable software systems_
 
-<div align="center">
-
-| | |
-|--|--|
-| 💻 | **Software Developer / Full Stack Developer** |
-| ⚙️ | Backend systems with FastAPI & Django |
-| 🧠 | LLMs, RAG pipelines & semantic search |
-| 🗄️ | MongoDB, FAISS & Pinecone |
-| 🌱 | Learning scalable backend design |
-
-</div>
-
+- 💻 Software Developer | Full Stack Developer  
+- ⚙️ FastAPI · Django · React · MongoDB  
+- 🧠 LLM-powered apps, RAG & vector search  
+- 🗄️ FAISS & Pinecone  
+- 🌱 Focused on system design & backend scalability  
 
 ---
 
