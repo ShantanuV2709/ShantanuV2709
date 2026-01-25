@@ -13,13 +13,20 @@ Always open to learning, collaboration, and building impactful products.
 </p>
 
 
-### 👨‍💻 About Me
+<h3 align="center">👨‍💻 About Me</h3>
 
-- 🔨 Currently building **LLM-powered applications and RAG-based systems**
-- 🧠 Working extensively with **FastAPI, MongoDB, vector databases, and LangChain**
-- 🌱 Exploring **advanced retrieval strategies, embeddings, and scalable backend design**
-- 💡 Interested in building **production-grade AI-backed web applications**
-- 📫 Reach me via **GitHub or LinkedIn**
+<div align="center">
+
+| | |
+|--|--|
+| 💻 | **Software Developer / Full Stack Developer** |
+| ⚙️ | Backend systems with FastAPI & Django |
+| 🧠 | LLMs, RAG pipelines & semantic search |
+| 🗄️ | MongoDB, FAISS & Pinecone |
+| 🌱 | Learning scalable backend design |
+
+</div>
+
 
 ---
 
