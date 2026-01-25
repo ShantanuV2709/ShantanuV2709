@@ -29,7 +29,7 @@ Always open to learning, collaboration, and building impactful products.
   <a href="www.linkedin.com/in/shantanuverma27" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
-  <a href="mailto:shantanuverma2709@gmail.com">
+  <a href="shantanuverma2709@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
   <a href="https://github.com/ShantanuV2709" target="_blank">
