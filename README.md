@@ -2,15 +2,18 @@
   <img src="https://raw.githubusercontent.com/ShantanuV2709/ShantanuV2709/main/assets/banner.svg" />
 </p>
 
-<h3 align="center">Software Developer | Full Stack Developer</h3>
+<h3 align="center">
+Software Developer • Full Stack • Speaks a little Transformer
+</h3>
 
 <h6 align="center">
 Hello, I’m Shantanu Verma, a Software Developer based in India.
-I specialize in building scalable, full-stack web applications and backend systems.
-My work focuses on clean architecture, efficient APIs, and intelligent data-driven applications.
-I enjoy solving real-world problems through thoughtful system design and maintainable code.
-Always open to learning, collaboration, and building impactful products.
+I enjoy building clean, scalable web applications and backend systems.
+My interests include backend development, system design fundamentals,
+and experimenting with language models in practical applications.
+I’m always learning, improving, and open to collaboration.
 </h6>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=CORPWISE%3A+Enterprise+RAG+System+ONLINE;NoCap+AI%3A+Fake+News+Detection+ACTIVE;LLM+Pipelines%3A+DEPLOYED;Status%3A+Building+Intelligent+Systems" />
