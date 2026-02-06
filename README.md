@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/ShantanuV2709/ShantanuV2709/main/assets/banner.svg" />
 </p>
 
-<h3 align="center">
-Software Developer • Full Stack • Speaks a little Transformer
-</h3>
 
 <h6 align="center">
 Hello, I’m Shantanu Verma, a Software Developer based in India.
