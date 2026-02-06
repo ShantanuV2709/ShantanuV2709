@@ -7,6 +7,10 @@ My work focuses on clean architecture, efficient APIs, and intelligent data-driv
 I enjoy solving real-world problems through thoughtful system design and maintainable code.
 Always open to learning, collaboration, and building impactful products.
 </h6>
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Enterprise%20RAG%20Systems-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20LLMs%20%7C%20RAG-22c55e?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=600&lines=Software+Developer;Full+Stack+Developer;FastAPI+%7C+React+%7C+MongoDB;Building+Scalable+Applications" alt="Typing SVG" />
