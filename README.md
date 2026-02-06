@@ -54,10 +54,6 @@ Always open to learning, collaboration, and building impactful products.
 #### 📦 Database
 [![Database](https://skillicons.dev/icons?i=mongodb,sqlite)](https://skillicons.dev)
 
-**Vector Databases & Retrieval**
-- FAISS
-- Pinecone
-
 #### 🛠️ Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
@@ -75,18 +71,45 @@ Always open to learning, collaboration, and building impactful products.
 
 ### 🚀 Featured Projects
 
+#### 🔹 CORPWISE  
+**Enterprise-Grade RAG Knowledge Assistant**
+
+- Multi-tenant RAG platform with role-based access control  
+- Dual-mode architecture: standalone dashboard & embeddable widget  
+- Hybrid retrieval using Vector Search + Keyword Search  
+- Intelligent document access powered by Pinecone & MongoDB  
+- Modern glassmorphism UI designed for enterprise workflows  
+- Built with React 19, FastAPI, LangChain, and Google Gemini 2.5  
+
+---
+
+#### 🔹 NoCap AI  
+**Advanced Fake News Detection & Verification System**
+
+- Hybrid RAG + real-time web search pipeline for fact verification  
+- Integrates Google Gemini, FAISS, and DuckDuckGo search  
+- Multi-modal analysis supporting both text and image-based news  
+- OCR-enabled image verification with source attribution  
+- “Truth Card” generator for explainable verification results  
+- Modern React frontend with glassmorphism UI  
+- Full-stack system including a custom Chrome extension  
+
+---
+
 #### 🔹 LLM-Powered RAG Chatbot
-- FastAPI backend with session-based memory
-- MongoDB for structured and unstructured data
-- FAISS & Pinecone for semantic retrieval
-- React frontend with real-time chat interface
-- Supports web, PDF, and database-based querying
+- FastAPI backend with session-based conversational memory  
+- MongoDB for structured and unstructured data storage  
+- FAISS & Pinecone for semantic vector retrieval  
+- React frontend with real-time chat interface  
+- Supports web, PDF, and database-based querying  
+
+---
 
 #### 🔹 Silaibook
-- Full-stack web application tailored for real-world business workflows
-- Backend APIs built with scalability and clean architecture in mind
-- Database-driven design for managing structured records
-- Focus on usability, maintainability, and practical problem-solving
+- Full-stack web application tailored for real-world business workflows  
+- Backend APIs built with scalability and clean architecture principles  
+- Database-driven system for managing structured records  
+- Focus on usability, maintainability, and practical problem-solving  
 
 ---
 
@@ -112,7 +135,7 @@ Always open to learning, collaboration, and building impactful products.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ShantanuV2709&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <!-- Made with ❤️ by Shantanu Verma -->
