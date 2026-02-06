@@ -1,6 +1,47 @@
-<h1 align="center">Hi 👋, I'm Shantanu Verma</h1>
-<h3 align="center">Software Developer | Full Stack Developer</h3>
-<h6 align="center">
+<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#22c55e;#38bdf8;#8b5cf6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#8b5cf6;#22c55e;#38bdf8" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1200" height="180" fill="#0f172a"/>
+
+  <!-- Gradient Accent -->
+  <rect x="0" y="0" width="1200" height="6" fill="url(#grad)"/>
+
+  <!-- Main Title -->
+  <text x="50%" y="70" text-anchor="middle"
+        fill="url(#grad)"
+        font-size="36"
+        font-family="JetBrains Mono, monospace"
+        font-weight="bold">
+    Shantanu Verma
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="105" text-anchor="middle"
+        fill="#e5e7eb"
+        font-size="18"
+        font-family="JetBrains Mono, monospace">
+    Enterprise GenAI • RAG Systems • Full Stack Engineering
+  </text>
+
+  <!-- Status Line -->
+  <text x="50%" y="135" text-anchor="middle"
+        fill="#94a3b8"
+        font-size="14"
+        font-family="JetBrains Mono, monospace">
+    CORPWISE ▸ Multi-Tenant RAG • NoCap AI ▸ Fake News Detection • Status: BUILDING
+  </text>
+</svg>
+
 Hello, I’m Shantanu Verma, a Software Developer based in India.
 I specialize in building scalable, full-stack web applications and backend systems.
 My work focuses on clean architecture, efficient APIs, and intelligent data-driven applications.
