@@ -13,6 +13,12 @@ Always open to learning, collaboration, and building impactful products.
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=CORPWISE%3A+Enterprise+RAG+System+ONLINE;NoCap+AI%3A+Fake+News+Detection+ACTIVE;LLM+Pipelines%3A+DEPLOYED;Status%3A+Building+Intelligent+Systems" />
+</p>
+
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=600&lines=Software+Developer;Full+Stack+Developer;FastAPI+%7C+React+%7C+MongoDB;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
 
