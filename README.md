@@ -8,14 +8,12 @@ I enjoy solving real-world problems through thoughtful system design and maintai
 Always open to learning, collaboration, and building impactful products.
 </h6>
 <p align="center">
-  <img src="https://img.shields.io/badge/Building-Enterprise%20RAG%20Systems-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20LLMs%20%7C%20RAG-22c55e?style=for-the-badge" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=CORPWISE%3A+Enterprise+RAG+System+ONLINE;NoCap+AI%3A+Fake+News+Detection+ACTIVE;LLM+Pipelines%3A+DEPLOYED;Status%3A+Building+Intelligent+Systems" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Enterprise%20RAG%20Systems-8b5cf6?style=for-the-badge" />
+</p>
 
 
 <p align="center">
