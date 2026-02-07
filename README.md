@@ -39,11 +39,6 @@ I’m always learning, improving, and open to collaboration.
   <a href="mailto: shantanuverma2709@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
   </a>
-  <a href="https://github.com/ShantanuV2709" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
-  </a>
-</p>
-
 ---
 
 ### 💻 Primary Stack
