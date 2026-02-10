@@ -18,19 +18,19 @@ I’m always learning, improving, and open to collaboration.
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 > _Building clean, scalable, and reliable software systems_
 
-- 💻 Software Developer | Full Stack Developer  
-- ⚙️ FastAPI · Django · React · MongoDB  
-- 🧠 LLM-powered apps, RAG & vector search  
-- 🗄️ FAISS & Pinecone  
-- 🌱 Focused on system design & backend scalability  
+- Software Developer | Full Stack Developer  
+- FastAPI · Django · React · MongoDB  
+- LLM-powered apps, RAG & vector search  
+- FAISS & Pinecone  
+- Focused on system design & backend scalability  
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me 🌐 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shantanuverma27/" target="_blank">
@@ -41,22 +41,22 @@ I’m always learning, improving, and open to collaboration.
   </a>
 
 
-### 💻 Primary Stack
+### Primary Stack
 
-#### 🚀 Languages
+#### Languages
 [![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp)](https://skillicons.dev)
 
-#### 🧑‍🎨 Frontend
+#### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css,vite)](https://skillicons.dev)
 
-#### ⚙️ Backend
+#### Backend
 [![Backend](https://skillicons.dev/icons?i=fastapi,django,nodejs,express,postman)](https://skillicons.dev)
 
-#### 📦 Database
+#### Database
 [![Database](https://skillicons.dev/icons?i=mongodb,sqlite)](https://skillicons.dev)
 ---
 
-### 🔍 Key Focus Areas
+### Key Focus Areas
 
 - Full Stack Application Development  
 - Backend Architecture & API Design  
@@ -66,9 +66,9 @@ I’m always learning, improving, and open to collaboration.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🔹 CORPWISE  
+#### CORPWISE  
 **Enterprise-Grade RAG Knowledge Assistant**
 
 - Multi-tenant RAG platform with role-based access control  
@@ -80,7 +80,7 @@ I’m always learning, improving, and open to collaboration.
 
 ---
 
-#### 🔹 NoCap AI  
+#### NoCap AI  
 **Advanced Fake News Detection & Verification System**
 
 - Hybrid RAG + real-time web search pipeline for fact verification  
@@ -93,7 +93,7 @@ I’m always learning, improving, and open to collaboration.
 
 ---
 
-#### 🔹 LLM-Powered RAG Chatbot
+#### LLM-Powered RAG Chatbot
 - FastAPI backend with session-based conversational memory  
 - MongoDB for structured and unstructured data storage  
 - FAISS & Pinecone for semantic vector retrieval  
@@ -102,7 +102,7 @@ I’m always learning, improving, and open to collaboration.
 
 ---
 
-#### 🔹 Silaibook
+#### Silaibook
 - Full-stack web application tailored for real-world business workflows  
 - Backend APIs built with scalability and clean architecture principles  
 - Database-driven system for managing structured records  
@@ -110,7 +110,7 @@ I’m always learning, improving, and open to collaboration.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShantanuV2709&theme=gruvbox&show_icons=true&count_private=true" height="165px"/>
