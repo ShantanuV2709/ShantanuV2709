@@ -58,8 +58,6 @@ Full-stack web application built around real-world business workflows. Focused o
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantanuV2709&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94a3b8&hide=stars)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuV2709&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94a3b8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShantanuV2709&theme=transparent&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0)](https://git.io/streak-stats)
 
 </div>
