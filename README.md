@@ -27,7 +27,7 @@ AI / ML     →   LangChain  ·  RAG Pipelines  ·  Vector Search  ·  Gemini
 
 ## Projects
 
-### ◆ CORPWISE — Enterprise RAG Knowledge Assistant
+### CORPWISE — Enterprise RAG Knowledge Assistant
 Multi-tenant knowledge assistant with role-based access control and hybrid retrieval (vector + keyword).
 Dual-mode: standalone dashboard and embeddable widget. Built with React 19, FastAPI, LangChain, Gemini 2.5.
 
@@ -35,21 +35,21 @@ Dual-mode: standalone dashboard and embeddable widget. Built with React 19, Fast
 
 ---
 
-### ◆ NoCap AI — Fake News Detection System
+### NoCap AI — Fake News Detection System
 Hybrid RAG + real-time web search pipeline for fact verification. Supports text and image inputs with OCR-based verification and source attribution. Includes a custom Chrome extension.
 
 > `FastAPI` `React` `FAISS` `Google Gemini` `DuckDuckGo API` `OCR`
 
 ---
 
-### ◆ LLM RAG Chatbot
+### LLM RAG Chatbot
 Conversational chatbot with session-based memory, semantic retrieval via FAISS and Pinecone, and support for web, PDF, and database querying.
 
 > `FastAPI` `MongoDB` `FAISS` `Pinecone` `React`
 
 ---
 
-### ◆ Silaibook — Business Management App
+### Silaibook — Business Management App
 Full-stack web application built around real-world business workflows. Focused on clean architecture, maintainability, and practical usability.
 
 > `FastAPI` `React` `MongoDB`
